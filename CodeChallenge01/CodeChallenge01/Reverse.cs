@@ -18,6 +18,7 @@ namespace CodeChallenge01
                 revray[counter] = ray[i];
                 counter++;
                 
+                
             }
 
             foreach (int i in revray)
